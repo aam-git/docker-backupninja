@@ -11,7 +11,7 @@ docker run --rm -v /path/to/id.rsa/.ssh/:/root/.ssh/ -v /path/to/backup:/rdiff-b
 ```
 
 
-## Docker Composer (run on a schedule or manually, I do this via portainer)
+## Docker Composer (run manually or on a schedule ie via portainer)
 
 ```
 version: '2'
